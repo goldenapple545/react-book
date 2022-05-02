@@ -1,0 +1,34 @@
+{
+  "name": "book-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldenapple545/react-book.git"
+  },
+  "keywords": [
+    "react",
+    "book"
+  ],
+  "author": "jordj1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goldenapple545/react-book/issues"
+  },
+  "homepage": "https://github.com/goldenapple545/react-book#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  },
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
